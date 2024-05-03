@@ -1,0 +1,19 @@
+.users-table--edit{
+    background: #009614;
+    padding: 6px;
+    color: #fff;
+    text-align: center;
+    font-weight: bold;
+    border-radius: 25px;
+    
+}
+.users-table--delete{
+    background: #e10606;
+    padding: 6px;
+    color: #ececec;
+    text-align: center;
+    font-weight: bold;
+    border-radius: 25px;
+    
+    
+}
